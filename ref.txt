@@ -1,0 +1,17 @@
+1. To built a crud application for item.
+2. UI model for the item will be driven from the backend.
+
+
+item id - text
+item name  text
+item address - textarea
+item is active - radio button
+item req - one, two, three, four - checkbox
+item date - date field - date
+item country - select box
+
+ui model
+1. id to match each field and its corresponding type.
+
+
+

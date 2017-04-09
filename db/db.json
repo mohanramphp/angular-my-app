@@ -1,0 +1,33 @@
+{
+    "items": {
+        "metadata": {
+            "itemId": "Item Name",
+            "itemName": "Display Name",
+            "itemAddress": "Address",
+            "isActive": "Active",
+            "itemDependencies": "Link Names",
+            "itemDate": "Date",
+            "itemCountry": "Country"
+        },
+        "data": [
+            {
+                "itemId": 10,
+                "itemName": "Mohan Ram",
+                "itemAddress": "Forest Road, Theni",
+                "isActive": "Yes",
+                "itemDependencies": "Item1, Item2",
+                "itemDate": "12/12/2017",
+                "itemCountry": "India"
+            },
+            {
+                "itemId": 11,
+                "itemName": "Vikraam",
+                "itemAddress": "Nehru Nagar, Chennai",
+                "isActive": "No",
+                "itemDependencies": "Item4, Item6",
+                "itemDate": "12/11/2017",
+                "itemCountry": "India"
+            }
+        ]
+    }
+}
